@@ -1,0 +1,4 @@
+Дата/время: 2022-07-09 14:51:27.670741
+Имя функции: get_hash
+Аргументы: (('wiki_links.txt',), {})
+Результат: <generator object get_hash at 0x7fcf89a0f2e0>
